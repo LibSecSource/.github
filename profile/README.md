@@ -1,10 +1,11 @@
-# Your organization name
+# LibSecSource
 
-Organization short description
+LibSecSource is a hub for open-source tools and libraries focused on enhancing cybersecurity,
+penetration testing, OSINT, and system security
 
 ## Mission
 
-Organization mission
+Our mission is to provide accessible, reliable, and innovative resources to the security community
 
 ## All organization projects are free
 
@@ -15,7 +16,7 @@ possibilities.
 
 ## Features
 
-Bee free to check our [repositories](https://github.com/orgs/libresource/repositories) to find something useful 
+Bee free to check our [repositories](https://github.com/orgs/LibSecSource/repositories) to find something useful 
 and interesting.
 
 ## FAQ
